@@ -1,4 +1,4 @@
 # soccer_analysis-
 analysing goal trends
 
-i love football
+i like football
